@@ -1,0 +1,16 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\obj\Debug\CuentaBancariaDos.Consola.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\obj\Debug\CuentaBancariaDos.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\bin\Debug\CuentaBancariaDos.Consola.exe.config
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\bin\Debug\CuentaBancariaDos.Consola.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\bin\Debug\CuentaBancariaDos.Consola.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\bin\Debug\CuentaBancariaDos.Entidades.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\bin\Debug\CuentaBancariaDos.Negocio.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\bin\Debug\CuentaBancariaDos.Entidades.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\bin\Debug\CuentaBancariaDos.Negocio.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\obj\Debug\CuentaBancariaDos.Consola.csproj.CopyComplete
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\obj\Debug\CuentaBancariaDos.Consola.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\obj\Debug\CuentaBancariaDos.Consola.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\bin\Debug\CuentaBancariaDos.Datos.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\bin\Debug\CuentaBancariaDos.Datos.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Consola\bin\Debug\Newtonsoft.Json.xml

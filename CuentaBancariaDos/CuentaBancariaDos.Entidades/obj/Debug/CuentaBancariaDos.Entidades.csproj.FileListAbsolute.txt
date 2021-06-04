@@ -1,0 +1,6 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Entidades\obj\Debug\CuentaBancariaDos.Entidades.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Entidades\obj\Debug\CuentaBancariaDos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Entidades\bin\Debug\CuentaBancariaDos.Entidades.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Entidades\bin\Debug\CuentaBancariaDos.Entidades.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Entidades\obj\Debug\CuentaBancariaDos.Entidades.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Entidades\obj\Debug\CuentaBancariaDos.Entidades.pdb

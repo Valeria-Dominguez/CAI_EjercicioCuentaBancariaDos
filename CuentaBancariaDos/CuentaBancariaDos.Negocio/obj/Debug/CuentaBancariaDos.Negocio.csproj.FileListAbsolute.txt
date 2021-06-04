@@ -1,0 +1,13 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\obj\Debug\CuentaBancariaDos.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\bin\Debug\CuentaBancariaDos.Negocio.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\bin\Debug\CuentaBancariaDos.Negocio.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\bin\Debug\CuentaBancariaDos.Datos.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\bin\Debug\CuentaBancariaDos.Entidades.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\bin\Debug\CuentaBancariaDos.Datos.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\bin\Debug\CuentaBancariaDos.Entidades.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\obj\Debug\CuentaBancariaDos.Negocio.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\obj\Debug\CuentaBancariaDos.Negocio.csproj.CopyComplete
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\obj\Debug\CuentaBancariaDos.Negocio.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\obj\Debug\CuentaBancariaDos.Negocio.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CuentaBancariaDos\CuentaBancariaDos.Negocio\bin\Debug\Newtonsoft.Json.xml
